@@ -17,7 +17,7 @@ Este proyecto es una aplicación para analizar datos del famoso desastre del Tit
 2. Navega hasta la carpeta del proyecto:
 
     ```bash
-    cd ruta-a-la-carpeta/proyecto_titanic
+    cd ruta-a-la-carpeta/proyect_titanic
     ```
 
 ## Uso
