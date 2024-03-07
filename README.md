@@ -1,6 +1,6 @@
 # Proyecto Titanic
 
-Este proyecto es una aplicación de línea de comandos (CLI) para analizar datos del famoso desastre del Titanic. Proporciona diversas funcionalidades, como mostrar información general del conjunto de datos, visualizar información de pasajeros individuales, calcular porcentajes de supervivencia y más.
+Este proyecto es una aplicación para analizar datos del famoso desastre del Titanic. Proporciona diversas funcionalidades, como mostrar información general del conjunto de datos, visualizar información de pasajeros individuales, calcular porcentajes de supervivencia y más.
 
 ## Requisitos
 
